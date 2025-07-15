@@ -11,13 +11,13 @@ We recollect the published spatial related datasets for evaluation. The followin
 
 | Dataset Name | Description  | Link |
 |--------------|--------------|------|
-| EgoOrientBench | -- | [Link]() |
-| GeoMeter | -- | [Link]() |
-| SEED-Bench(Spatial Relation section)| -- | [Link]() |
-| MM-Vet(Spatial awareness (Spat))| -- | [Link]() |
+| EgoOrientBench | -- |  |
+| GeoMeter | -- |  |
+| SEED-Bench(Spatial Relation section)| -- |  |
+| MM-Vet(Spatial awareness (Spat))| -- |  |
 | CV-Bench| -- | [Link](https://huggingface.co/datasets/nyu-visionx/CV-Bench) |
-| What's Up| -- | [Link]() |
-| VSP | -- | [Link]() |
+| What's Up| -- |  |
+| VSP | -- |  |
 | srbench | -- | [Link](https://huggingface.co/datasets/stogian/srbench) |
 | MINDCUBE| -- | [Link](https://huggingface.co/datasets/MLL-Lab/MindCube) |
 | SpatialRGPT-Bench | -- | [Link](https://huggingface.co/datasets/a8cheng/SpatialRGPT-Bench) |
