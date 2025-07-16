@@ -20,6 +20,6 @@ We recollect the published spatial related datasets for evaluation. The followin
 | VSP | -- |  |
 | srbench | -- | [Link](https://huggingface.co/datasets/stogian/srbench) |
 | MINDCUBE| -- | [Link](https://huggingface.co/datasets/MLL-Lab/MindCube) |
-| SpatialRGPT-Bench | -- | [Link](https://huggingface.co/datasets/a8cheng/SpatialRGPT-Bench) |
-| VSI-Bench| -- | [Link](https://huggingface.co/datasets/nyu-visionx/VSI-Bench) |
+| ViewSpatial-Bench | -- | [Link](https://huggingface.co/datasets/lidingm/ViewSpatial-Bench) |
+| SPHERE| -- | [Link](https://huggingface.co/datasets/wei2912/SPHERE-VLM) |
 | OmniSpatial| -- | [Link](https://huggingface.co/datasets/qizekun/OmniSpatial) |
